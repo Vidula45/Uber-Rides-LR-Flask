@@ -1,0 +1,27 @@
+certifi==2020.12.5
+click==7.1.2
+cycler==0.10.0
+Flask==1.1.2
+itsdangerous==1.1.0
+Jinja2==2.11.2
+joblib==1.0.0
+jsonify==0.5
+kiwisolver @ file:///C:/ci/kiwisolver_1603996595157/work
+MarkupSafe==1.1.1
+matplotlib @ file:///C:/ci/matplotlib-base_1603356257853/work
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603468620949/work
+olefile==0.46
+Pillow @ file:///C:/ci/pillow_1603821929285/work
+pyparsing==2.4.7
+python-dateutil==2.8.1
+scikit-learn==0.24.0
+scipy==1.6.0
+six @ file:///C:/ci/six_1605205426665/work
+sklearn==0.0
+threadpoolctl==2.1.0
+tornado @ file:///C:/ci/tornado_1606935947090/work
+Werkzeug==1.0.1
+wincertstore==0.2
